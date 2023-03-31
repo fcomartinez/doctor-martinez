@@ -6,3 +6,4 @@ Página HTML estática con CSS.
 * Media Query para RWD.
 * Gulp para optimizar imagenes.
 * Gulp para minificar codigo.
+* BEM
