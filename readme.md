@@ -7,3 +7,4 @@ Página HTML estática con CSS.
 * Gulp para optimizar imagenes.
 * Gulp para minificar codigo.
 * BEM
+* Detección de compatibilidad con avif y webp
