@@ -8,3 +8,5 @@ Página HTML estática con CSS.
 * Gulp para minificar codigo.
 * BEM
 * Detección de compatibilidad con avif y webp
+
+https://doctor-martinez.netlify.app/
